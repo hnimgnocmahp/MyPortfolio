@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hnimgnocmahp/MyPortfolio.git/static/css/main.b45ad744.css",
-    "main.js": "/hnimgnocmahp/MyPortfolio.git/static/js/main.fb5a74ad.js",
+    "main.js": "/hnimgnocmahp/MyPortfolio.git/static/js/main.317189e1.js",
     "static/media/anhdaidien.jpg": "/hnimgnocmahp/MyPortfolio.git/static/media/anhdaidien.4f74726f6930838e6516.jpg",
     "static/media/project2.jpg": "/hnimgnocmahp/MyPortfolio.git/static/media/project2.5fae296d371cc56cd98a.jpg",
     "static/media/project4.jpg": "/hnimgnocmahp/MyPortfolio.git/static/media/project4.a7b7ed11daa072b234eb.jpg",
@@ -12,10 +12,10 @@
     "static/media/project6.jpg": "/hnimgnocmahp/MyPortfolio.git/static/media/project6.a22c939898d6c4613b65.jpg",
     "index.html": "/hnimgnocmahp/MyPortfolio.git/index.html",
     "main.b45ad744.css.map": "/hnimgnocmahp/MyPortfolio.git/static/css/main.b45ad744.css.map",
-    "main.fb5a74ad.js.map": "/hnimgnocmahp/MyPortfolio.git/static/js/main.fb5a74ad.js.map"
+    "main.317189e1.js.map": "/hnimgnocmahp/MyPortfolio.git/static/js/main.317189e1.js.map"
   },
   "entrypoints": [
     "static/css/main.b45ad744.css",
-    "static/js/main.fb5a74ad.js"
+    "static/js/main.317189e1.js"
   ]
 }
